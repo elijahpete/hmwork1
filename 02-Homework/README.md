@@ -1,0 +1,1 @@
+## This is the homework assignment 1 ie: homework-02 pushed from local repositroy code has been simplified and adjusted for semantic and accesibility purposes
